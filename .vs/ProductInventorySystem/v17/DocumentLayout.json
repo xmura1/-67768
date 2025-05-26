@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ProductInventorySystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{08429ADA-F20D-463C-8699-DD11F2B9BD56}|ProductUI\\ProductUI.csproj|d:\\\u0434\u0430\u043D\u0438\u043B\\winformsapp1\\\u0444\u0430\u0442\u044F\\productinventorysystem\\productui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08429ADA-F20D-463C-8699-DD11F2B9BD56}|ProductUI\\ProductUI.csproj|solutionrelative:productui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08429ADA-F20D-463C-8699-DD11F2B9BD56}|ProductUI\\ProductUI.csproj|c:\\users\\rpk2024.5\\desktop\\productinventorysystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{08429ADA-F20D-463C-8699-DD11F2B9BD56}|ProductUI\\ProductUI.csproj|c:\\users\\rpk2024.5\\desktop\\productinventorysystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -12,9 +19,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FFC193AD-0104-4E30-97EC-DC5809D65379}|ProductLibrary\\ProductLibrary.csproj|D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ProductInventorySystem\\productlibrary\\productcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFC193AD-0104-4E30-97EC-DC5809D65379}|ProductLibrary\\ProductLibrary.csproj|solutionrelative:productlibrary\\productcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08429ADA-F20D-463C-8699-DD11F2B9BD56}|ProductUI\\ProductUI.csproj|c:\\users\\rpk2024.5\\desktop\\productinventorysystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +28,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ProductInventorySystem\\ProductUI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductUI\\Program.cs",
+              "ToolTip": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ProductInventorySystem\\ProductUI\\Program.cs",
+              "RelativeToolTip": "ProductUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:01:47.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ProductInventorySystem\\ProductLibrary\\Product.cs",
               "RelativeDocumentMoniker": "ProductLibrary\\Product.cs",
@@ -40,7 +57,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\rpk2024.5\\Desktop\\ProductInventorySystem\\Form1.cs",
               "ToolTip": "C:\\Users\\rpk2024.5\\Desktop\\ProductInventorySystem\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
@@ -50,17 +67,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\rpk2024.5\\Desktop\\ProductInventorySystem\\Form1.cs",
               "ToolTip": "C:\\Users\\rpk2024.5\\Desktop\\ProductInventorySystem\\Form1.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAApwCYAAAAMAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T08:56:49.304Z"
+              "WhenOpened": "2025-05-26T08:56:49.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProductCatalog.cs",
               "DocumentMoniker": "D:\\\u0414\u0430\u043D\u0438\u043B\\WinFormsApp1\\\u0444\u0430\u0442\u044F\\ProductInventorySystem\\ProductLibrary\\ProductCatalog.cs",
               "RelativeDocumentMoniker": "ProductLibrary\\ProductCatalog.cs",
