@@ -1,0 +1,9 @@
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductLibrary\obj\Debug\ProductLibrary.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductLibrary\obj\Debug\ProductLibrary.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductLibrary\bin\Debug\ProductLibrary.dll
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductLibrary\bin\Debug\ProductLibrary.pdb
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductLibrary\obj\Debug\ProductL.BF21FBF4.Up2Date
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductLibrary\obj\Debug\ProductLibrary.dll
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductLibrary\obj\Debug\ProductLibrary.pdb

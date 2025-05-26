@@ -1,0 +1,15 @@
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\obj\Debug\ProductUI.csproj.AssemblyReference.cache
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\obj\Debug\ProductUI.Form1.resources
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\obj\Debug\ProductUI.Properties.Resources.resources
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\obj\Debug\ProductUI.csproj.GenerateResource.cache
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\obj\Debug\ProductUI.csproj.CoreCompileInputs.cache
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\bin\Debug\ProductUI.exe.config
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\bin\Debug\ProductUI.exe
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\bin\Debug\ProductUI.pdb
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\bin\Debug\ProductLibrary.dll
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\bin\Debug\Newtonsoft.Json.dll
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\bin\Debug\ProductLibrary.pdb
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\bin\Debug\Newtonsoft.Json.xml
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\obj\Debug\ProductUI.csproj.Up2Date
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\obj\Debug\ProductUI.exe
+D:\Данил\WinFormsApp1\фатя\ProductInventorySystem\ProductUI\obj\Debug\ProductUI.pdb
